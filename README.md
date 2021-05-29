@@ -10,7 +10,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=navi29&show_icons=true&theme=radical)
 -------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navi29&show_icons=true&theme=tokyonight)](https://github.com/Anagha-2000?tab=repositories)
+
   
   --Dream is not that which you see while sleeping, it is something that does not let you sleep--
   
