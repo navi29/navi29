@@ -7,6 +7,8 @@
 - You can see my linked in profile
   https://www.linkedin.com/in/navya-sri-244138176/
   
+  --Dream is not that which you see while sleeping, it is something that does not let you sleep--
+  
 
 <!---
 navi29/navi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
